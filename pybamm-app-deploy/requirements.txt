@@ -1,0 +1,4 @@
+pybamm>=24.0
+fastapi>=0.100.0
+uvicorn[standard]>=0.23.0
+python-multipart>=0.0.6
